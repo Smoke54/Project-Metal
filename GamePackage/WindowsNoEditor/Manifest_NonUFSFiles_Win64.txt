@@ -1,0 +1,30 @@
+Engine/Binaries/Win64/UE4Game.exe	2021-08-30T19:21:57.079Z
+Engine/Binaries/Win64/turbojpeg.dll	2021-08-30T19:21:28.110Z
+Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-08-30T19:24:06.259Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-08-30T19:20:36.240Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-08-30T19:20:30.497Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2021-08-30T19:20:45.760Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2021-08-30T19:20:45.833Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2021-08-30T19:20:45.405Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2021-08-30T19:20:45.395Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2021-08-30T19:20:45.065Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll	2021-08-30T19:20:43.020Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll	2021-08-30T19:20:43.892Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll	2021-08-30T19:20:44.297Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll	2021-08-30T19:20:44.468Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2021-08-30T19:20:36.246Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-08-30T19:21:05.611Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-08-30T19:21:05.611Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-08-30T19:20:35.467Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-08-30T19:20:36.273Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2021-08-30T19:21:05.982Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-08-30T19:21:06.401Z
+MyProject/Content/Movies/After the car audio.wav	2022-04-24T19:51:48.000Z
+MyProject/Content/Movies/After the car.mp4	2022-04-24T19:50:16.000Z
+MyProject/Content/Movies/button press.wav	2021-09-28T01:29:22.000Z
+MyProject/Content/Movies/loadingsim.mp4	2022-04-13T02:32:38.000Z
+MyProject/Content/Movies/Moment Before Disasta.mp4	2022-04-24T03:27:10.000Z
+MyProject/Content/Movies/Outside the building.mp4	2022-04-24T17:31:14.000Z
+MyProject/Content/Movies/The Kill.mp4	2022-04-28T20:56:04.017Z
+MyProject/Content/Movies/Transform.mp4	2022-04-27T03:58:36.000Z
+MyProject.exe	2022-04-29T08:35:15.029Z
