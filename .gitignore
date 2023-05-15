@@ -158,3 +158,9 @@ GamePackage/NexusSprint/Windows/Manifest_NonUFSFiles_Win64.txt
 GamePackage/NexusSprint/Windows/Engine/Saved/Config/Windows/Manifest.ini
 GamePackage/NexusSprint/Windows/Engine/Binaries/Win64/tbb.pdb
 GamePackage/NexusSprint/NexusSprint2.zip
+GamePackage/NexusAlpha/Windows/Engine/Binaries/Win64/tbb.pdb
+GamePackage/NexusAlpha/Windows/Engine/Saved/Config/Windows/Manifest.ini
+GamePackage/NexusAlpha/Windows/Manifest_NonUFSFiles_Win64.txt
+GamePackage/NexusAlpha/Windows/Manifest_UFSFiles_Win64.txt
+GamePackage/NexusBeta.zip
+GamePackage/NexusFinal.zip
